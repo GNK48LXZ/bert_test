@@ -10,6 +10,5 @@ tensorboard
 ```
 
 # Usage
-设置config，运行pretrain.py即可。
-
-可使用`tensorboard --logdir Logs`来运行Tensorboard端口检测训练过程中损失函数变化。
+设置config，运行pretrain.py即可
+可使用`tensorboard --logdir Logs`来运行Tensorboard端口检测训练过程中损失函数变化
